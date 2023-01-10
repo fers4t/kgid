@@ -10,10 +10,9 @@
    ],
    "main": "dist/cjs/index.js",
    "module": "dist/esm/index.js",
-   "repository": {
-      "type": "git",
-      "url": ""
-   },
+   "repository": "fers4t/kgid",
+   "homepage": "https://github.com/fers4t",
+   "bugs": "https://github.com/fers4t/kgid/issues/",
    "scripts": {
       "build": "rm -rf ./dist && pnpm run build:esm && pnpm run build:cjs && rollup -c",
       "build:esm": "tsc",
