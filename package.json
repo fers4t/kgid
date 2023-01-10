@@ -1,7 +1,7 @@
 {
    "name": "kgid",
    "description": "Unique uuid generator. Just fast and unique.",
-   "version": "0.0.1",
+   "version": "1.0.0",
    "author": "oceaners-dev",
    "license": "ISC",
    "keywords": [],
